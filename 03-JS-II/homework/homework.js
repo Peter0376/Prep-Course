@@ -193,7 +193,8 @@ function doWhile(numero) {
     i++
   
 } while( i < 8)
-return numero }
+return numero
+ }
 
 
 
